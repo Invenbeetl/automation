@@ -1,231 +1,81 @@
-2018-02-05 12:30:27 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:30:27 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 12070103nanoseconds **
-2018-02-05 12:30:27 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@28cda624 **
-2018-02-05 12:30:29 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:33:58 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:33:58 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 10160366nanoseconds **
-2018-02-05 12:33:58 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@7eecb5b8 **
-2018-02-05 12:34:00 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:34:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:34:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 11103330nanoseconds **
-2018-02-05 12:34:54 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@51f49060 **
-2018-02-05 12:34:56 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:35:19 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:35:19 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 12500328nanoseconds **
-2018-02-05 12:35:19 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 12:35:21 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:35:45 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:35:45 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 10092630nanoseconds **
-2018-02-05 12:35:45 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 12:36:13 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:36:42 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:36:42 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 11613606nanoseconds **
-2018-02-05 12:36:42 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 12:36:50 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:41:55 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:14919: Connection reset
-2018-02-05 12:41:55 RetryExec [INFO] - Retrying request to {}->http://localhost:14919
-2018-02-05 12:43:06 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 12:43:06 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 10021609nanoseconds **
-2018-02-05 12:43:06 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 12:43:18 WebElementActions [INFO] - Click on Button globalmenu.page.account.button
-2018-02-05 12:43:29 WebElementActions [INFO] - Click on Link globalmenu.page.login.link
-2018-02-05 12:43:32 WebElementActions [INFO] - Input in login.page.username.inputfield, value - t22333221@gmail.com
-2018-02-05 12:43:32 WebElementActions [INFO] - Input in login.page.password.inputfield, value - teatatata1234
-2018-02-05 12:43:38 WebElementActions [INFO] - Click on Button login.page.signin.button
-2018-02-05 12:43:38 WebElementActions [INFO] - Element customer.page.sucessfullogin.text is Present
-2018-02-05 14:11:46 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 14:11:46 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 18719703nanoseconds **
-2018-02-05 14:11:46 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 14:11:51 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 14:12:08 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 14:13:56 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 14:13:56 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7335989nanoseconds **
-2018-02-05 14:13:56 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 14:13:58 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 14:14:00 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 14:15:47 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 14:15:47 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9816760nanoseconds **
-2018-02-05 14:15:47 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@387a8303 **
-2018-02-05 14:15:50 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 14:15:51 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 14:16:12 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 14:16:12 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9946485nanoseconds **
-2018-02-05 14:16:12 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 14:16:15 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 14:16:15 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 15:03:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 15:03:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 8563444nanoseconds **
-2018-02-05 15:03:40 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 15:03:42 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 15:03:43 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 15:11:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 15:11:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9884906nanoseconds **
-2018-02-05 15:11:40 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 15:11:42 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 15:11:43 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 15:12:38 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:8305: Connection reset
-2018-02-05 15:12:38 RetryExec [INFO] - Retrying request to {}->http://localhost:8305
-2018-02-05 15:15:09 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 15:15:09 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 11830360nanoseconds **
-2018-02-05 15:15:09 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 15:15:12 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 15:15:13 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 15:19:06 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 15:19:06 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 22116755nanoseconds **
-2018-02-05 15:19:06 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 15:19:11 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 15:19:12 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:00:28 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:00:28 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 8897607nanoseconds **
-2018-02-05 17:00:28 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 17:00:31 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:00:32 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:00:45 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:05:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:05:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 6747303nanoseconds **
-2018-02-05 17:05:20 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@3af4e0bf **
-2018-02-05 17:05:23 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:05:24 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:05:24 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:06:12 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:06:12 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7471050nanoseconds **
-2018-02-05 17:06:12 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 17:06:15 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:06:15 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:06:34 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:06:55 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:06:55 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9251475nanoseconds **
-2018-02-05 17:06:56 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 17:06:58 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:06:59 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:07:19 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:09:25 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:09:25 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 10333605nanoseconds **
-2018-02-05 17:09:25 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 17:09:27 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:09:28 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:09:55 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:10:19 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:10:19 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7241159nanoseconds **
-2018-02-05 17:10:19 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 17:10:21 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:10:22 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:10:23 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:11:46 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:11:46 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 6764135nanoseconds **
-2018-02-05 17:11:46 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 17:11:49 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:11:50 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:11:50 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:17:24 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:17:24 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 12920700nanoseconds **
-2018-02-05 17:17:24 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@3af4e0bf **
-2018-02-05 17:17:27 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:17:27 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:17:28 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:46:27 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:46:27 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 6789588nanoseconds **
-2018-02-05 17:46:27 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 17:46:30 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:46:31 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:46:32 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 17:54:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 17:54:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 12557391nanoseconds **
-2018-02-05 17:54:20 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 17:54:23 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 17:54:23 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 17:54:24 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:05:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:05:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7114719nanoseconds **
-2018-02-05 18:05:54 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@410954b **
-2018-02-05 18:05:57 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:05:58 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:05:59 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:06:00 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:06:01 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:06:48 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:06:48 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 14454403nanoseconds **
-2018-02-05 18:06:48 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@410954b **
-2018-02-05 18:06:50 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:06:51 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:06:53 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:06:53 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:06:54 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:07:24 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:07:24 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7530165nanoseconds **
-2018-02-05 18:07:24 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@1500b2f3 **
-2018-02-05 18:07:26 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:07:27 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:07:28 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:07:50 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:07:50 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 10630821nanoseconds **
-2018-02-05 18:07:50 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:07:52 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:07:57 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:08:34 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:10:35 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:10:35 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9845908nanoseconds **
-2018-02-05 18:10:35 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 18:10:38 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:10:42 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:10:43 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:11:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:11:40 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9903380nanoseconds **
-2018-02-05 18:11:40 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@617fe9e1 **
-2018-02-05 18:11:43 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:11:44 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:11:45 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:12:31 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:12:31 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 6900428nanoseconds **
-2018-02-05 18:12:31 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@3af4e0bf **
-2018-02-05 18:12:34 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:12:35 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:12:35 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:13:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:13:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 20709904nanoseconds **
-2018-02-05 18:13:18 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:13:21 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:13:22 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:13:22 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:13:59 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:13:59 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 6981300nanoseconds **
-2018-02-05 18:13:59 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:14:01 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:14:02 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:14:03 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:15:57 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:15:57 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7639774nanoseconds **
-2018-02-05 18:15:57 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:16:00 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:16:01 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:16:02 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:17:11 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:17:11 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 17355546nanoseconds **
-2018-02-05 18:17:11 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:17:14 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:17:15 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:17:16 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:18:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:18:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9278158nanoseconds **
-2018-02-05 18:18:18 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:18:22 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:18:23 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:18:24 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:19:45 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:19:46 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 13358315nanoseconds **
-2018-02-05 18:19:46 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6970140a **
-2018-02-05 18:19:48 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:19:49 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:19:50 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:21:58 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:21:58 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 9774477nanoseconds **
-2018-02-05 18:21:58 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@1500b2f3 **
-2018-02-05 18:22:00 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:22:02 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:22:02 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
-2018-02-05 18:22:52 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
-2018-02-05 18:22:52 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 16447066nanoseconds **
-2018-02-05 18:22:52 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@1500b2f3 **
-2018-02-05 18:22:55 WebElementActions [INFO] - Click on Link globalmenu.page.menuheaderlink.link
-2018-02-05 18:22:56 WebElementActions [INFO] - Click on Link productcategoty.page.item.link
-2018-02-05 18:22:56 WebElementActions [INFO] - Click 0 list elementproductlist.page.filter.price.list
+2018-02-09 19:49:44 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 19:49:44 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 870588nanoseconds **
+2018-02-09 19:49:44 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@54e041a4 **
+2018-02-09 19:52:59 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 19:52:59 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1199010nanoseconds **
+2018-02-09 19:52:59 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@7674a051 **
+2018-02-09 19:56:31 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 19:56:31 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 915210nanoseconds **
+2018-02-09 19:56:31 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@54e041a4 **
+2018-02-09 19:57:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 19:57:20 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 878173nanoseconds **
+2018-02-09 19:57:20 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@76b07f29 **
+2018-02-09 19:58:52 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 19:58:52 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1949116nanoseconds **
+2018-02-09 19:58:52 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@6a175569 **
+2018-02-09 20:01:17 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 20:01:17 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1000885nanoseconds **
+2018-02-09 20:01:17 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@36dce7ed **
+2018-02-09 20:03:43 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 20:03:43 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1334663nanoseconds **
+2018-02-09 20:03:43 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@76b07f29 **
+2018-02-09 20:05:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 20:05:54 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1388655nanoseconds **
+2018-02-09 20:05:54 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@76b07f29 **
+2018-02-09 20:09:00 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 20:09:00 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1342248nanoseconds **
+2018-02-09 20:09:00 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@376a0d86 **
+2018-02-09 20:09:02 Page [INFO] - Start open page.
+2018-02-09 20:09:03 Page [INFO] - Page open successful.
+2018-02-09 20:09:03 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 20:09:04 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 20:09:04 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t223332211@gmail.com
+2018-02-09 20:09:04 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata12345
+2018-02-09 20:09:05 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 20:09:05 WebElementsActions [INFO] - Element login.page.error.message is Present
+2018-02-09 20:09:06 Page [INFO] - Start open page.
+2018-02-09 20:09:06 Page [INFO] - Page open successful.
+2018-02-09 20:09:06 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 20:09:07 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 20:09:07 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t22333221@gmail.com
+2018-02-09 20:09:07 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata1234
+2018-02-09 20:09:09 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 20:09:09 WebElementsActions [INFO] - Element customer.page.sucessfullogin.text is Present
+2018-02-09 20:11:15 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 20:11:15 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 1349834nanoseconds **
+2018-02-09 20:11:15 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@376a0d86 **
+2018-02-09 20:11:16 Page [INFO] - Start open page.
+2018-02-09 20:11:17 Page [INFO] - Page open successful.
+2018-02-09 20:11:17 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 20:11:18 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 20:11:18 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t223332211@gmail.com
+2018-02-09 20:11:19 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata12345
+2018-02-09 20:11:20 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 20:11:20 WebElementsActions [INFO] - Element login.page.error.message is Present
+2018-02-09 20:11:20 Page [INFO] - Start open page.
+2018-02-09 20:11:21 Page [INFO] - Page open successful.
+2018-02-09 20:11:21 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 20:11:22 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 20:11:22 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t22333221@gmail.com
+2018-02-09 20:11:22 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata1234
+2018-02-09 20:11:23 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 20:11:23 WebElementsActions [INFO] - Element customer.page.sucessfullogin.text is Present
+2018-02-09 21:44:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton getInstance() class A **
+2018-02-09 21:44:18 UiMappingSingleton [INFO] - 	** UIMappingSingleton creation time - 7523373nanoseconds **
+2018-02-09 21:44:18 UiMappingSingleton [INFO] - 	** Object - utils.UiMappingSingleton@34129c78 **
+2018-02-09 21:44:18 Page [INFO] - Start open page.
+2018-02-09 21:44:20 Page [INFO] - Page open successful.
+2018-02-09 21:44:20 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 21:44:21 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 21:44:22 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t223332211@gmail.com
+2018-02-09 21:44:22 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata12345
+2018-02-09 21:44:23 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 21:44:23 WebElementsActions [INFO] - Element login.page.error.message is Present
+2018-02-09 21:44:23 Page [INFO] - Start open page.
+2018-02-09 21:44:24 Page [INFO] - Page open successful.
+2018-02-09 21:44:24 WebElementsActions [INFO] - Click on Button globalmenu.page.account.button
+2018-02-09 21:44:24 WebElementsActions [INFO] - Click on Link globalmenu.page.login.link
+2018-02-09 21:44:25 WebElementsActions [INFO] - Input in login.page.username.inputfield, value - t22333221@gmail.com
+2018-02-09 21:44:25 WebElementsActions [INFO] - Input in login.page.password.inputfield, value - teatatata1234
+2018-02-09 21:44:26 WebElementsActions [INFO] - Click on Button login.page.signin.button
+2018-02-09 21:44:26 WebElementsActions [INFO] - Element customer.page.sucessfullogin.text is Present
