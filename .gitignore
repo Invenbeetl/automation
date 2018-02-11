@@ -1,10 +1,4 @@
-target/
 .idea
-/.idea
-
-*.log
-*.iml
-
-.project
-.classpath
-.settings
+automation.iml
+target/
+out/

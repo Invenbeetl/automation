@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44560ff0-02f2-4019-ac68-0d18f8f627a2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_8_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testng_6_13_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/com.lexiconn.demo-magento.iml" afterPath="$PROJECT_DIR$/com.lexiconn.demo-magento.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/browser/Browser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/browser/Firefox.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/CustomerPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/GlobalPageHeader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/HomePage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/LoginPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/Page.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/ProductCategoryPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/ProductListPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/pages/RegPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/tests/LoginTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/tests/ProductListTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/tests/RegistrationTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/Application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/ClassNameUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/PropertyLoader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/UiMapping.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/UiMappingSingleton.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.lexiconn.demo-magento/utils/WebElementActions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Log4j.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/browser/Browser.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/browser/Firefox.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CustomerPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/GlobalPageHeader.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Page.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductCategoryPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductListPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/pages/RegPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Fixtures.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/tests/LoginTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/tests/ProductListTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/tests/RegistrationTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ClassNameUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/PropertyLoader.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/UiMapping.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/UiMappingSingleton.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/utils/WebElementActions.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/logs/test.log" afterPath="$PROJECT_DIR$/target/logs/test.log" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -716,7 +669,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -727,7 +679,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40131578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5049342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5049342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21558245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
