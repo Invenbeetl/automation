@@ -2,6 +2,7 @@ package pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import sun.rmi.runtime.Log;
 import utils.ClassNameUtil;
 import utils.PropertyLoader;
 import utils.WebDriverWrapper;
@@ -9,10 +10,11 @@ import utils.WebElementsActions;
 
 public class LoginPage extends GlobalPageHeader {
 
+    private static final String LOGIN_PAGE_URL = "http://magento-demo.lexiconn.com/customer/account/login/";
     private static Logger LOG = Logger.getLogger(ClassNameUtil.getCurrentClassName());
 
     public LoginPage(WebDriverWrapper dr) {
-        super(dr);
+        super(dr, LOGIN_PAGE_URL);
     }
 
 

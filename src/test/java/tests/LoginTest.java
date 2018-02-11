@@ -22,9 +22,6 @@ public class LoginTest extends Fixtures {
 
     @Test
     public void nonExistUserLoginTest() {
-        System.out.println("****************************************");
-        System.out.println(demo);
-        demo.homePage.logIn();
         demo.loginPage.enterInvalidCredentials();
         demo.loginPage.clickLoginButton();
         Assert.assertTrue(demo.loginPage.isShowLoginErrorMessage(), "Login with the invalid credentials failed!");
@@ -32,7 +29,6 @@ public class LoginTest extends Fixtures {
 
 //    @Test
     public void emptyUserLoginTest() {
-        demo.homePage.logIn();
         demo.loginPage.enterLoginEmailData("");
         demo.loginPage.enterPasswordData("qweqrt");
         demo.loginPage.clickLoginButton();
