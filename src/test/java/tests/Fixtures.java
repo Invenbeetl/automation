@@ -33,6 +33,8 @@ public class Fixtures {
     @AfterMethod
     public void afterMethodTearDown(ITestResult testResult){
         if(!testResult.isSuccess()){
+            LOG.error("<<<------- Test " + testResult.getMethod().getMethodName() +
+                    " failed!-------->>>");
             demo.screenShotMaker.takeScreenShot(testResult.getMethod().getMethodName());
         }
 

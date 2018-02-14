@@ -22,6 +22,7 @@ public class LoginTest extends Fixtures {
 
     @Test
     public void nonExistUserLoginTest() {
+        demo.screenShotMaker.takeScreenShot("nonExistUserLoginTest");
         demo.loginPage.enterInvalidCredentials();
         demo.loginPage.clickLoginButton();
         Assert.assertTrue(demo.loginPage.isShowLoginErrorMessage(), "Login with the invalid credentials failed!");
