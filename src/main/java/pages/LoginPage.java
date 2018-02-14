@@ -1,12 +1,9 @@
 package pages;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.WebDriver;
-import sun.rmi.runtime.Log;
 import utils.ClassNameUtil;
 import utils.PropertyLoader;
 import utils.WebDriverWrapper;
-import utils.WebElementsActions;
 
 public class LoginPage extends GlobalPageHeader {
 

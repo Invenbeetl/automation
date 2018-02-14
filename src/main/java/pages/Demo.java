@@ -1,5 +1,6 @@
 package pages;
 
+import utils.ScreenShotMaker;
 import utils.WebDriverWrapper;
 import utils.WebElementsActions;
 
@@ -12,6 +13,7 @@ public class Demo {
     public ProductCategoryPage productCategoryPage;
     public ProductListPage productListPage;
     public RegPage regPage;
+    public ScreenShotMaker screenShotMaker;
 
     public Demo(WebDriverWrapper driver) {
         web  = new WebElementsActions(driver);
@@ -21,6 +23,7 @@ public class Demo {
         productCategoryPage = new ProductCategoryPage(driver);
         productListPage = new ProductListPage(driver);
         regPage = new RegPage(driver);
+        screenShotMaker = new ScreenShotMaker(driver);
     }
 
 }

@@ -1,9 +1,10 @@
 package tests;
 
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeSuite;
+import org.apache.log4j.Logger;
+import org.testng.ITestResult;
+import org.testng.annotations.*;
 import pages.Demo;
+import utils.ClassNameUtil;
 import utils.UiMappingSingleton;
 import utils.WebDriverFactory;
 import utils.WebDriverWrapper;
@@ -12,10 +13,11 @@ import java.util.concurrent.TimeUnit;
 
 public class Fixtures {
 
+    private static final Logger LOG = Logger.getLogger(ClassNameUtil.getCurrentClassName());
     public static WebDriverWrapper driver;
     public static Demo demo;
 
-    @BeforeSuite
+    @BeforeTest
     public static void setUp() {
         driver = WebDriverFactory.initDriver();
         demo = new Demo(driver);
@@ -28,8 +30,17 @@ public class Fixtures {
         driver.manage().deleteAllCookies();
     }
 
-    @AfterSuite
+    @AfterMethod
+    public void afterMethodTearDown(ITestResult testResult){
+        if(!testResult.isSuccess()){
+            demo.screenShotMaker.takeScreenShot(testResult.getMethod().getMethodName());
+        }
+
+    }
+
+    @AfterTest
     public static void tearDown() {
+
         if (driver != null) {
             driver.close();
         }
